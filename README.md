@@ -1,2 +1,2 @@
 # frame
-Practicing Git
+Learning and Practicing Git
